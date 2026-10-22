@@ -51,5 +51,5 @@ The scripts can also be run one file at a time after editing `INPUT_CSV` at the 
 
 Benjamini and Hochberg (1995) J. R. Stat. Soc. B 57:289-300; Benjamini and Yekutieli (2001) Ann. Stat. 29:1165-1188;
 Hamed and Rao (1998) J. Hydrol. 204:182-196; Livezey and Chen (1983) Mon. Weather Rev. 111:46-59;
-Sen (2012) Hydrol. Sci. J. / Water Resour. Manage. - please cite the exact ITA reference used in the paper;
+Sen (2012) Hydrol. Sci. J. / Water Resour. Manage.
 Wilks (2016) Bull. Am. Meteorol. Soc. 97:2263-2273.
